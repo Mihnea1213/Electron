@@ -1,0 +1,8 @@
+Electron is an intuitive and powerful application designed to help users create, modify, and analyze electrical circuits with ease.
+Whether you're working on a new project or updating an existing one, Electron provides the tools you need to bring your designs to life.
+Key Features:
+ - Create and Modify Circuits: Start fresh with a new project or open previous ones to update and refine your designs.
+ - Resizing and Rotation: Easily resize and rotate circuit components to fit your design needs.
+ - Adjustable Component Values: Customize the values of components, from resistors to capacitors, to ensure your circuit meets specifications.
+ - Circuit Functionality Check: Electron automatically checks the functionality of your circuit to ensure it works as intended, saving you time and preventing errors.
+With its user-friendly interface and powerful features, Electron is the ideal solution for anyone looking to design and troubleshoot electrical circuits with confidence.

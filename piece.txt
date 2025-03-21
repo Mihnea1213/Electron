@@ -1,0 +1,12 @@
+condens.ps
+dioda.ps
+polariz.ps
+tranznpn.ps
+zenner.ps
+rezist.ps
+baterie.ps
+SERVOMOT.PS
+nod.ps
+STOP.PS
+SINU.PS
+AMPLOP.PS
