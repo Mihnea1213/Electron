@@ -1,0 +1,25 @@
+﻿  PROIECT_IP.cpp
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(409,40): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(457,40): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1089,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1256,29): warning C4566: character represented by universal-character-name '\u03A9' cannot be represented in the current code page (1252)
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1346,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1355,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1373,43): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1376,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1448,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1465,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1506,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1508,54): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1513,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1665,63): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1783,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1787,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1815,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1877,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1879,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(1884,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(2526,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(2569,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\PROIECT_IP.cpp(2602,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PROIECT_IP.vcxproj -> C:\Users\grosu\source\repos\B4_Electron_Grosu Mihnea-Constantin_Isari Andrew_Marin Marius Andrei\Debug\PROIECT_IP.exe
